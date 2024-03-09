@@ -12,3 +12,5 @@ Navigate through the portfolio to see my skills, projects, and achievements. The
 
 Need Help or Have Suggestions?
 Feel free to contact me at [zakakhan12628@gmail.com]. Your feedback is highly appreciated!
+"You can explore the hosted portfolio by visiting the following URL: https://www.uptute.com/zaka"
+
